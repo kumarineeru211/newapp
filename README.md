@@ -3,7 +3,7 @@ Before start use npm package manager to install dependencies.
 
 # npm install
 
-# Use npm to start project
+## Use npm to start project
 
 # npm run dev
 
